@@ -17,7 +17,7 @@ public class main {
 		// TODO Auto-generated method stub
 		EntityManagerFactory factory = Persistence.createEntityManagerFactory("Projeto_PSC");
 		EntityManager manager = factory.createEntityManager();
-		//teste um
+		//teste 4
 	}
 
 }
